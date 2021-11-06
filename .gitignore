@@ -131,3 +131,5 @@ dmypy.json
 # Ignoring Pycharm Config
 .idea/
 
+# Ignoring draft-README file
+draft-README.md
